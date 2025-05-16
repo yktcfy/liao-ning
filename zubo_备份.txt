@@ -1,4 +1,3 @@
-辽宁联通-组播1,#genre#
 #EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="央视高清",辽宁北方
 #EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁都市.png" group-title="央视高清",辽宁都市
 #EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧.png" group-title="央视高清",辽宁影视剧
@@ -8,7 +7,6 @@
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁公共.png" group-title="卫视频道",辽宁公共
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁经济.png" group-title="卫视频道",辽宁经济
 #EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://www.yangfeiyue.cn/tv/沈阳新闻.png" group-title="卫视频道",沈阳新闻
-辽宁联通-组播2,#genre#
 #EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="央视高清",辽宁北方
 #EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁都市.png" group-title="央视高清",辽宁都市
 #EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧.png" group-title="央视高清",辽宁影视剧
@@ -18,7 +16,6 @@
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁公共.png" group-title="卫视频道",辽宁公共
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁经济.png" group-title="卫视频道",辽宁经济
 #EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://www.yangfeiyue.cn/tv/沈阳新闻.png" group-title="卫视频道",沈阳新闻
-辽宁联通-组播3,#genre#
 #EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="央视高清",辽宁北方
 #EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁都市.png" group-title="央视高清",辽宁都市
 #EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧.png" group-title="央视高清",辽宁影视剧
