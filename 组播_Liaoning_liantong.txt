@@ -1,22 +1,22 @@
 Liaoning_liantong-组播,#genre#
 #EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="央视高清",辽宁北方
-http://113.224.171.54:5555/rtp/232.0.0.151:1234
+http://113.224.177.195:5555/rtp/232.0.0.151:1234
 #EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁都市.png" group-title="央视高清",辽宁都市
-http://113.224.171.54:5555/rtp/232.0.0.154:1234
+http://113.224.177.195:5555/rtp/232.0.0.154:1234
 #EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧.png" group-title="央视高清",辽宁影视剧
-http://113.224.171.54:5555/rtp/232.0.0.25:1234
+http://113.224.177.195:5555/rtp/232.0.0.25:1234
 #EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="央视高清",辽宁体育
-http://113.224.171.54:5555/rtp/232.0.0.164:1234
+http://113.224.177.195:5555/rtp/232.0.0.164:1234
 #EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁生活.png" group-title="卫视频道",辽宁生活
-http://113.224.171.54:5555/rtp/232.0.0.150:1234
+http://113.224.177.195:5555/rtp/232.0.0.150:1234
 #EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁教育青少.png" group-title="卫视频道",辽宁教育青少
-http://113.224.171.54:5555/rtp/232.0.0.241:1234
+http://113.224.177.195:5555/rtp/232.0.0.241:1234
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁公共.png" group-title="卫视频道",辽宁公共
-http://113.224.171.54:5555/rtp/232.0.0.168:1234
+http://113.224.177.195:5555/rtp/232.0.0.168:1234
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁经济.png" group-title="卫视频道",辽宁经济
-http://113.224.171.54:5555/rtp/232.0.0.156:1234
+http://113.224.177.195:5555/rtp/232.0.0.156:1234
 #EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://www.yangfeiyue.cn/tv/沈阳新闻.png" group-title="卫视频道",沈阳新闻
-http://113.224.171.54:5555/rtp/232.0.0.206:1234
+http://113.224.177.195:5555/rtp/232.0.0.206:1234
 #EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="央视高清",辽宁北方
 http://113.225.12.16:8899/rtp/232.0.0.151:1234
 #EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁都市.png" group-title="央视高清",辽宁都市
@@ -54,23 +54,23 @@ http://113.225.145.254:8888/rtp/232.0.0.156:1234
 #EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://www.yangfeiyue.cn/tv/沈阳新闻.png" group-title="卫视频道",沈阳新闻
 http://113.225.145.254:8888/rtp/232.0.0.206:1234
 #EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="央视高清",辽宁北方
-http://113.226.116.108:4022/rtp/232.0.0.151:1234
+http://116.2.167.54:4010/rtp/232.0.0.151:1234
 #EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁都市.png" group-title="央视高清",辽宁都市
-http://113.226.116.108:4022/rtp/232.0.0.154:1234
+http://116.2.167.54:4010/rtp/232.0.0.154:1234
 #EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧.png" group-title="央视高清",辽宁影视剧
-http://113.226.116.108:4022/rtp/232.0.0.25:1234
+http://116.2.167.54:4010/rtp/232.0.0.25:1234
 #EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="央视高清",辽宁体育
-http://113.226.116.108:4022/rtp/232.0.0.164:1234
+http://116.2.167.54:4010/rtp/232.0.0.164:1234
 #EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁生活.png" group-title="卫视频道",辽宁生活
-http://113.226.116.108:4022/rtp/232.0.0.150:1234
+http://116.2.167.54:4010/rtp/232.0.0.150:1234
 #EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁教育青少.png" group-title="卫视频道",辽宁教育青少
-http://113.226.116.108:4022/rtp/232.0.0.241:1234
+http://116.2.167.54:4010/rtp/232.0.0.241:1234
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁公共.png" group-title="卫视频道",辽宁公共
-http://113.226.116.108:4022/rtp/232.0.0.168:1234
+http://116.2.167.54:4010/rtp/232.0.0.168:1234
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁经济.png" group-title="卫视频道",辽宁经济
-http://113.226.116.108:4022/rtp/232.0.0.156:1234
+http://116.2.167.54:4010/rtp/232.0.0.156:1234
 #EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://www.yangfeiyue.cn/tv/沈阳新闻.png" group-title="卫视频道",沈阳新闻
-http://113.226.116.108:4022/rtp/232.0.0.206:1234
+http://116.2.167.54:4010/rtp/232.0.0.206:1234
 #EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="央视高清",辽宁北方
 http://116.3.196.158:4022/rtp/232.0.0.151:1234
 #EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁都市.png" group-title="央视高清",辽宁都市
@@ -197,3 +197,21 @@ http://175.171.76.234:8181/rtp/232.0.0.168:1234
 http://175.171.76.234:8181/rtp/232.0.0.156:1234
 #EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://www.yangfeiyue.cn/tv/沈阳新闻.png" group-title="卫视频道",沈阳新闻
 http://175.171.76.234:8181/rtp/232.0.0.206:1234
+#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="央视高清",辽宁北方
+http://175.172.104.64:5555/rtp/232.0.0.151:1234
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁都市.png" group-title="央视高清",辽宁都市
+http://175.172.104.64:5555/rtp/232.0.0.154:1234
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧.png" group-title="央视高清",辽宁影视剧
+http://175.172.104.64:5555/rtp/232.0.0.25:1234
+#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="央视高清",辽宁体育
+http://175.172.104.64:5555/rtp/232.0.0.164:1234
+#EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁生活.png" group-title="卫视频道",辽宁生活
+http://175.172.104.64:5555/rtp/232.0.0.150:1234
+#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁教育青少.png" group-title="卫视频道",辽宁教育青少
+http://175.172.104.64:5555/rtp/232.0.0.241:1234
+#EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁公共.png" group-title="卫视频道",辽宁公共
+http://175.172.104.64:5555/rtp/232.0.0.168:1234
+#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁经济.png" group-title="卫视频道",辽宁经济
+http://175.172.104.64:5555/rtp/232.0.0.156:1234
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://www.yangfeiyue.cn/tv/沈阳新闻.png" group-title="卫视频道",沈阳新闻
+http://175.172.104.64:5555/rtp/232.0.0.206:1234
